@@ -82,6 +82,7 @@ button {
 }
 
 @keyframes btn {
-    from {background-color: #b1afaf;}
-    to {background-color: #fafafa;}
+    0% {background-color: #b1afaf;}
+    50% {background-color: #fafafa;}
+    100% {background-color: #b1afaf;}
 }
